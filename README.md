@@ -1,44 +1,90 @@
-<h1 align="center">Hi 👋, I'm Fazril Arief Nugraha</h1>
-<h3 align="center">A passionate Full Stack Developer From Indonesia</h3>
 
-<hr/>
+<br clear="both">
+
+<h2 align="left">👋 Hi! My name is Fazril Arief Nugraha and I'm a Fullstack Web Developer</h2>
 
 <img align="right" alt="coding" width="250" heigth="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazrilarief&label=Profile%20views&color=0e75b6&style=flat" alt="fazrilarief" /> </p>
 
-<span style="font-size:40px" align="center">My name is Fazril Arief Nugraha, and I am a junior full-stack developer. I have a strong passion for web development, which began in the 10th grade when I was in vocational school. Currently, I am pursuing my studies at Pamlang University, majoring in informatics engineering.</span>
+<span style="font-size:40px" align="center">My name is Fazril Arief Nugraha, and I am a driven junior full-stack developer. My passion for web development began in the 12th grade and has grown ever since. Currently, I'm honing my skills in HTML, CSS, and JavaScript for basic stack while pursuing my studies in informatics engineering at Pamlang University.</span>
 
-## Connect With Me 🔗
+###
 
-<p align="left">
-<a href="https://www.instagram.com/f.zril/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f.zril" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/fazril-arief-nugraha-8aa564209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="in/fazril-arief-nugraha-8aa564209" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/fazril-arief-nugraha-8aa564209/](https://www.youtube.com/channel/UCL9PlFaKKuNfP2_VAjtqCHw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/fazril-arief-nugraha-8aa564209" height="30" width="40" /></a>
-<a href="https://medium.com/@fazrilarief" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fazrilarief" height="30" width="40" /></a>
-</p>
+<h2 align="left">💻 Current Tech Stack</h2>
 
-## Stack Flow 💻
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-</a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<ul>
+  <li><h3>Front-End</h3></li>
+</ul>
+<div align="left">
+  <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+</div>
 
-## Tools 🛠
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<ul>
+  <li><h3>Back-End</h3></li>
+</ul>
+<div align="left">
+  <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+</div>
 
-## Overview 👀
-<p>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=fazrilarief&show_icons=true&hide_border=true&theme=radical&layout=compact" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazrilarief&&layout=compact&langs_count=8&theme=radical&hide_border=true" height="195"/></td>
-  </tr>
-</p>
+###
 
-## There's A Snake In My Boot!! &nbsp;🐍
-<img src="https://user-images.githubusercontent.com/80609220/261098158-d05caf6a-28a3-4b0a-a1df-9d128be6a348.svg">
+<h2 align="left">🔗 Reach Me</h2>
+
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCL9PlFaKKuNfP2_VAjtqCHw">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://medium.com/@mynameisJRIKS">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://www.instagram.com/f.zril/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a> 
+</div>
+
+<div align="left">
+  <a href="https://discord.com/users/457360886693232673">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />  
+  </a>
+  <a href="https://www.linkedin.com/in/fazril-arief-nugraha-8aa564209/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:fazrilarief.jobs@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+<h2 align="left">💹 Overview</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fazrilarief&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fazrilarief&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fazrilarief&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80609220/261098158-d05caf6a-28a3-4b0a-a1df-9d128be6a348.svg">
+</div>
+
