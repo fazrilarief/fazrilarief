@@ -84,7 +84,4 @@
   <img src="https://streak-stats.demolab.com?user=fazrilarief&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/80609220/261098158-d05caf6a-28a3-4b0a-a1df-9d128be6a348.svg">
-</div>
 
