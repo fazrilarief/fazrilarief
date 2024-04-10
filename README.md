@@ -27,6 +27,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="bootstrap logo"  />
+  <img width="12" />
 </div>
 
 <ul>
