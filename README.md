@@ -80,6 +80,8 @@
   </a>
 </div>
 
+<a href="fazrilnugraha.my.id">😁 I have an portfolio</a>
+
 <h2 align="left">💹 Overview</h2>
 
 <div align="center">
